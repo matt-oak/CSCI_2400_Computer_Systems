@@ -1,0 +1,6 @@
+Phase 1: Crikey! I have lost my mojo!
+Phase 2: 1 2 4 8 16 32
+Phase 3: 6 r 551
+Phase 4: 10 37
+Phase 5: 5 115
+Phase 6: 3 6 4 5 1 2
